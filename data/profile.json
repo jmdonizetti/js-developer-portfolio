@@ -46,19 +46,19 @@
     {
       "name": "Projeto Pokedex DIO",
       "url": "https://github.com/jmdonizetti/pokedex",
-      "url deploy": "https://jmdonizetti.github.io/pokedex/",
+      "urlDeploy": "https://jmdonizetti.github.io/pokedex/",
       "github": true
     },
     {
       "name": "Curriculum Vitae (CV) Online",
       "url": "https://github.com/jmdonizetti/cv",
-      "url deploy": "https://jmdonizetti.github.io/cv/",
+      "urlDeploy": "https://jmdonizetti.github.io/cv/",
       "github": true
     },
     {
       "name": "Projeto NLW",
       "url": "https://github.com/jmdonizetti/nlw",
-      "url deploy": "https://jmdonizetti.github.io/nlw/",
+      "urlDeploy": "https://jmdonizetti.github.io/nlw/",
       "github": true
     }
   ],
