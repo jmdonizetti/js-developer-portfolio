@@ -1,6 +1,6 @@
 # Portfolio
 
-![preview](../js-developer-portfolio/portfolio.PNG)
+![preview](https://github.com/jmdonizetti/js-developer-portfolio/assets/112431459/ca7dc43b-f805-47fc-9875-8127e7df6352)
 
 Projeto feito na formação JavaScript Developer
 
